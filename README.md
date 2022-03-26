@@ -1,2 +1,2 @@
 # eth-real-world-supply
-Real World ICO based on OpenZeppelin Framework
+Real World Supply based on OpenZeppelin Framework
